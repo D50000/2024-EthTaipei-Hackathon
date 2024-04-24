@@ -22,6 +22,11 @@ We had 14 challenges, 70 teams, 56 submissions, and over 300 hackers working to 
 ![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/Chronos_Share.jpg)  
 **Chronos-Share meaning time as service**, our platform transforms spare moments into valuable assets, creating a unique marketplace for **time trading**.  
 
+![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/role.jpg)  
+![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/scenario.jpg)  
+![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/trade.jpg)  
+![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/dataFlow.jpg)  
+
 - [Live Demo](https://chronos-share.vercel.app/)
 - [Briefing](https://www.youtube.com/watch?v=-986bKyWH8k)
 - [Source Code](https://github.com/Chronos-Share/chronos-share)  
