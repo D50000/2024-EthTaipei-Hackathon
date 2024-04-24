@@ -20,11 +20,11 @@ We had 14 challenges, 70 teams, 56 submissions, and over 300 hackers working to 
 
 ## Project: [Chronos Share](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3zbtd20irlw201bzqhn5c8/idea)
 ![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/Chronos_Share.jpg)  
-Chronos-Share meaning time as service, our platform transforms spare moments into valuable assets, creating a unique marketplace for time trading.  
+**Chronos-Share meaning time as service**, our platform transforms spare moments into valuable assets, creating a unique marketplace for **time trading**.  
 
 - [Live Demo](https://chronos-share.vercel.app/)
 - [Briefing](https://www.youtube.com/watch?v=-986bKyWH8k)
-- [Source Code][https://github.com/Chronos-Share/chronos-share]  
+- [Source Code](https://github.com/Chronos-Share/chronos-share)  
   Tech Stack:
   - [Mint Club](https://mint.club/token/arbitrum/KUKO)
   - NFT
