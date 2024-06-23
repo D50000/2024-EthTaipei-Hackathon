@@ -19,7 +19,8 @@ We had 14 challenges, 70 teams, 56 submissions, and over 300 hackers working to 
 ![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/thirdPlace.jpg)  
 
 - [Proof of Participation](https://polygonscan.com/nft/0x115cc61a1980295e43f813adec68769c50057088/1133)  
-![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/pop-1133.jpg) 
+![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/taikai.jpg)  
+![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/pop-1133.jpg)  
 
 ## Project: [Chronos Share](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3zbtd20irlw201bzqhn5c8/idea)
 ![](https://github.com/D50000/2024-EthTaipei-Hackathon/blob/main/archive/Chronos_Share.jpg)  
